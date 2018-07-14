@@ -10,6 +10,8 @@
     <Authors>towmeykaw</Authors>
     <Company />
     <Description>dotnet global tool for base64 encode/decode.</Description>
+    <PackageProjectUrl />
+    <RepositoryUrl>https://github.com/Towmeykaw/dotnet-base64</RepositoryUrl>
   </PropertyGroup>
 
   <ItemGroup>
